@@ -47,6 +47,6 @@ Major Projects Undertaken
 
 Languages known
 * English; Full Professional Proficiency
-* Hindi; Full professional proficiency
+* Hindi; Full Professional Proficiency
 
 Computer Proficiency: Microsoft Office, SPSS, Stata, R, Matlab
